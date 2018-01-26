@@ -28,3 +28,4 @@ public class BlackJack extends MobileApplication {
         ((Stage) scene.getWindow()).getIcons().add(new Image(BlackJack.class.getResourceAsStream("/CardOne_1.png")));
     }
 }
+//done
